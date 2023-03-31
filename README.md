@@ -1,4 +1,5 @@
 ### Hi there, I'm Sercan. 👋
+I’m a backend developer. I prefer to C# programming language with .NET Entity Framework when i devolope Windows Form Application.  I pay attention object oriented programming and solid principles in my code.
 
 <!--
 **sercanisli/sercanisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

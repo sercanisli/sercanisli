@@ -1,7 +1,5 @@
 ### Hi there, I'm Sercan. 👋
-I’m a backend developer. I prefer to C# programming language with .NET Entity Framework when i
-devolope Windows Form Application. I pay attention object oriented programming and solid
-principles in my code. My career goal is to become a senior-level backend developer.
+I’m an enthusiastic and motivated backend developer. I prefer C# as my primary programming language also welcome other programming languages as well. I pay attention to object oriented programming and solid principles while developing software. My career goal is to become a senior-level backend developer.
 
 <!--
 **sercanisli/sercanisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there, I'm Sercan. 👋
-I’m an enthusiastic and motivated backend developer. I prefer C# as my primary programming language also welcome other programming languages as well. I pay attention to object oriented programming and solid principles while developing software. My career goal is to become a senior-level backend developer.
+I’m an enthusiastic and motivated backend developer. I prefer C# as my primary programming language but also welcome other programming languages as well. I pay attention to object oriented programming and solid principles while developing software. My career goal is to become a senior-level backend developer.
 
 <!--
 **sercanisli/sercanisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

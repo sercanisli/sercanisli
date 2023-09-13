@@ -3,7 +3,7 @@ I’m an enthusiastic and motivated backend developer. I prefer C# as my primary
 
 
 - 🔭 I’m currently working on C#
-- 🌱 I’m currently learning .NET, Asp.Net and JavaScript
+- 🌱 I’m currently learning .NET and Asp.Net
 - 💬 Ask me about C#
 - 📫 How to reach me: sercanislii@gmail.com
 
